@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "None"
+title                    : "THU_hejinhua"
 title_separator          : "-"
 name                     : &name "Jinhua He"
-description              : &description "PHD at TSinghua University"
-url                      : https://stuartgeiger.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Ph.D at Tsinghua University"
+url                      : https://hejinhua1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hejinhua1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
