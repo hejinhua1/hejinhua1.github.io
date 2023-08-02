@@ -86,7 +86,7 @@ author:
   bio              : "BS degree from the Electrical Engineering Department of Tsinghua University. <a style='color: black;' href='https://www.eea.tsinghua.edu.cn/'> Electrical Engineering Department</a> "
   location         : "Beijing, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
   email            :wo
   uri              : 
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "staeiou"
+  github           : "hejinhua1"
   google_plus      :
   keybase          :
   instagram        : 
