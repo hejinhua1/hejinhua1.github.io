@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I’m Jinhua He, a Ph.D student at the Tsinghua University.
+Hi! I’m Jinhua He, a Ph.D student at Tsinghua University.
 
 
 ## My background and history
